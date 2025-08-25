@@ -22,7 +22,7 @@ export const companies: Company[] = [
         difficulty: "Easy",
         tags: ["Array", "Hash Table"],
         leetcodeUrl: "https://leetcode.com/problems/two-sum/",
-        videoUrl: "https://www.youtube.com/watch?v=KLlXCFG5TnA",
+        videoUrl: "https://youtu.be/7jDS9KQEDbI?si=CAtDeWiCrUltCZhs",
       },
       {
         id: 2,
@@ -30,7 +30,7 @@ export const companies: Company[] = [
         difficulty: "Medium",
         tags: ["Linked List", "Math"],
         leetcodeUrl: "https://leetcode.com/problems/add-two-numbers/",
-        videoUrl: "https://www.youtube.com/watch?v=wgFPrzTjm7s",
+        videoUrl: "https://youtu.be/XmRrGzR6udg?si=2OGhTmRN93fpFGjW",
       },
       {
         id: 3,
@@ -38,7 +38,7 @@ export const companies: Company[] = [
         difficulty: "Medium",
         tags: ["Hash Table", "String", "Sliding Window"],
         leetcodeUrl: "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
-        videoUrl: "https://www.youtube.com/watch?v=wiGpQwVHdE0",
+        videoUrl: "https://youtu.be/T-Oj2Ajj9vA?si=ODZ0lUiTVZA4L8xz",
       },
       {
         id: 4,
@@ -46,7 +46,7 @@ export const companies: Company[] = [
         difficulty: "Hard",
         tags: ["Array", "Binary Search", "Divide and Conquer"],
         leetcodeUrl: "https://leetcode.com/problems/median-of-two-sorted-arrays/",
-        videoUrl: "https://www.youtube.com/watch?v=LPFhl65R7ww",
+        videoUrl: "https://youtu.be/F9c7LpRZWVQ?si=YqTayuyYEb8JtypX",
       },
       {
         id: 5,
@@ -54,7 +54,7 @@ export const companies: Company[] = [
         difficulty: "Easy",
         tags: ["String", "Stack"],
         leetcodeUrl: "https://leetcode.com/problems/valid-parentheses/",
-        videoUrl: "https://www.youtube.com/watch?v=WTzjTskDFMg",
+        videoUrl: "https://youtu.be/TaWs8tIrnoA?si=LmeMENiWkb35y9WI",
       },
     ],
   },
@@ -67,7 +67,7 @@ export const companies: Company[] = [
         difficulty: "Easy",
         tags: ["Linked List", "Recursion"],
         leetcodeUrl: "https://leetcode.com/problems/merge-two-sorted-lists/",
-        videoUrl: "https://www.youtube.com/watch?v=XIdigk956u0",
+        videoUrl: "https://youtu.be/f8RPIb-0DDE?si=dnfx_wlhcYKvEdH9",
       },
       {
         id: 7,
@@ -75,7 +75,7 @@ export const companies: Company[] = [
         difficulty: "Easy",
         tags: ["Array", "Two Pointers"],
         leetcodeUrl: "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-        videoUrl: "https://www.youtube.com/watch?v=DEJAZBq0FDA",
+        videoUrl: "https://youtu.be/f1BTfBv22og?si=FN0Hny-AA0bexsFR",
       },
       {
         id: 8,
@@ -83,7 +83,7 @@ export const companies: Company[] = [
         difficulty: "Medium",
         tags: ["Array", "Binary Search"],
         leetcodeUrl: "https://leetcode.com/problems/search-in-rotated-sorted-array/",
-        videoUrl: "https://www.youtube.com/watch?v=QdVrY3stDD4",
+        videoUrl: "https://youtu.be/6WNZQBHWQJs?si=A_O6FJsfhNO_r4Id",
       },
       {
         id: 9,
@@ -91,7 +91,7 @@ export const companies: Company[] = [
         difficulty: "Medium",
         tags: ["Array", "Backtracking"],
         leetcodeUrl: "https://leetcode.com/problems/combination-sum/",
-        videoUrl: "https://www.youtube.com/watch?v=GBKI9VSKdGg",
+        videoUrl: "https://youtu.be/OyZFFqQtu98?si=lcf5-KrebstczLpp",
       },
       {
         id: 10,
@@ -99,7 +99,7 @@ export const companies: Company[] = [
         difficulty: "Hard",
         tags: ["Array", "Two Pointers", "Dynamic Programming"],
         leetcodeUrl: "https://leetcode.com/problems/trapping-rain-water/",
-        videoUrl: "https://www.youtube.com/watch?v=ZI2z5pq0TqA",
+        videoUrl: "https://youtu.be/ZI2z5pq0TqA?si=j1GGIswgJdwaw-Ad",
       },
     ],
   },
@@ -112,7 +112,7 @@ export const companies: Company[] = [
         difficulty: "Easy",
         tags: ["Math"],
         leetcodeUrl: "https://leetcode.com/problems/reverse-integer/",
-        videoUrl: "https://www.youtube.com/watch?v=HAgLH58IgJQ",
+        videoUrl: "https://youtu.be/0fwrMYPcGQ0?si=u4lGasfDfMJGYESw",
       },
       {
         id: 12,
@@ -120,7 +120,7 @@ export const companies: Company[] = [
         difficulty: "Medium",
         tags: ["String"],
         leetcodeUrl: "https://leetcode.com/problems/string-to-integer-atoi/",
-        videoUrl: "https://www.youtube.com/watch?v=2bA0ixShS6o",
+        videoUrl: "https://youtu.be/An1BTSYpOIY?si=CdvhpWFND4zWmIpa",
       },
       {
         id: 13,
@@ -128,7 +128,7 @@ export const companies: Company[] = [
         difficulty: "Medium",
         tags: ["Array", "Two Pointers"],
         leetcodeUrl: "https://leetcode.com/problems/container-with-most-water/",
-        videoUrl: "https://www.youtube.com/watch?v=UuiTKBwPgAo",
+        videoUrl: "https://youtu.be/EbkMABpP52U?si=iD2FvesO8nfaed4F",
       },
       {
         id: 14,
@@ -136,7 +136,7 @@ export const companies: Company[] = [
         difficulty: "Medium",
         tags: ["Array", "Two Pointers"],
         leetcodeUrl: "https://leetcode.com/problems/3sum/",
-        videoUrl: "https://www.youtube.com/watch?v=jzZsG8n2R9A",
+        videoUrl: "https://youtu.be/cRBSOz49fQk?si=JF8s0dXDAxTMk6NQ",
       },
       {
         id: 15,
@@ -144,7 +144,7 @@ export const companies: Company[] = [
         difficulty: "Hard",
         tags: ["String", "Dynamic Programming", "Recursion"],
         leetcodeUrl: "https://leetcode.com/problems/regular-expression-matching/",
-        videoUrl: "https://www.youtube.com/watch?v=HAA8mgxlov8",
+        videoUrl: "https://youtu.be/HAA8mgxlov8?si=Tc-fJ5Ipe-jtilNM",
       },
     ],
   },
@@ -255,7 +255,7 @@ export const companies: Company[] = [
         difficulty: "Medium",
         tags: ["String"],
         leetcodeUrl: "https://leetcode.com/problems/count-and-say/",
-        videoUrl: "https://www.youtube.com/watch?v=1YUyEpPp6lc",
+        videoUrl: "https://youtu.be/5uJitfSM3vk?si=UhDsIL60cKLfaWW9",
       },
       {
         id: 28,
